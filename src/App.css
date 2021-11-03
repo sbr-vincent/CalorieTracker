@@ -1,3 +1,8 @@
+* {
+  font-family: monospace;
+  font-size: calc(8px + 2vmin)
+}
+
 .App {
   text-align: center;
 }
